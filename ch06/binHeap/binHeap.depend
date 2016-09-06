@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1473086660 source:d:\codeprac\datastructure\ch06\binheap\binheap.c
+	"binheap.h"
+	"fatal.h"
+	<stdlib.h>
+	<stdio.h>
+
+1473086660 d:\codeprac\datastructure\ch06\binheap\binheap.h
+
+1473079775 d:\codeprac\datastructure\ch06\binheap\fatal.h
+
+1473080862 source:d:\codeprac\datastructure\ch06\binheap\error.c
+	<stdio.h>
+	<stdlib.h>
+
+1473087960 source:d:\codeprac\datastructure\ch06\binheap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"binheap.h"
+	"fatal.h"
+
